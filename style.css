@@ -1,27 +1,49 @@
-*{
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+* {
+  font-family: Poppins, sans-serif;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
 
-button{
-  margin: 2rem;
-  width: 8rem;
+#addPlayer,
+#remPlayer {
+  display: inline-block;
+  margin: 1rem auto;
+  width: 9rem;
   height: 3rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #686868;
+  transition: font-weight .5s, width .5s ease-in-out, height .5s ease-in-out, background-color .5s ease-in-out, color .5s ease-in-out;
 }
 
-h1,h2,h3,li{
+
+#addPlayer:hover,
+#remPlayer:hover {
+  cursor: pointer;
+  font-weight: 500;
+  width: 9.5rem;
+  height: 3.5rem;
+  color: rgb(255, 255, 255);
+}
+
+body{
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+li {
   margin: .5rem;
 }
-label{
+
+ul{
+  text-align: justify;
+  margin-left: 70vh;
+}
+
+label {
   display: block;
   margin: .9rem;
 }
-
-
-
-
-
-
-
