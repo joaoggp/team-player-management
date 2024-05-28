@@ -3,7 +3,9 @@ Este projeto é uma aplicação web simples para gerenciar uma lista de jogadore
 
 ⚙️ - Funcionalidades
 Adicionar Jogador: Adiciona um novo jogador à lista com informações de posição, número da camisa e nome.
+
 Remover Jogador: Remove um jogador da lista pelo número da camisa.
+
 Mensagens Temporárias: Exibe mensagens temporárias de confirmação e erro.
 
 📙 - Como Usar
