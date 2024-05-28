@@ -1,4 +1,5 @@
 📋 - Jogador Manager
+
 Este projeto é uma aplicação web simples para gerenciar uma lista de jogadores, permitindo adicionar e remover jogadores com base no número da camisa.
 
 ⚙️ - Funcionalidades
@@ -8,9 +9,9 @@ Remover Jogador: Remove um jogador da lista pelo número da camisa.
 
 Mensagens Temporárias: Exibe mensagens temporárias de confirmação e erro.
 
-📙 - Como Usar
+📙 Como Usar
 
-Adicionar um Jogador:
+➕ - Adicionar um Jogador:
 
 1 - Preencha os campos "Número da Camiseta", "Nome do Jogador" e "Posição do Jogador".
 2 - Clique em "Adicionar Jogador".
